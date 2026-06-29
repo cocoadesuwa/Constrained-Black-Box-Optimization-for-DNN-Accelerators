@@ -21,7 +21,3 @@ The uploaded `Draft.pdf` covers the following sections:
 *   **Black-Box Optimization:** Optimizing objectives without explicit mathematical formulations, relying on expensive simulations.
 *   **Chance-Constrained Multiple-Choice Knapsack Problem:** The formal problem definition underlying the resource allocation and design selection process.
 *   **Surrogate Model:** Transformer + Mixture-of-Experts architecture used to predict hardware performance metrics.
-
-## Status
-🚧 **Work in Progress**  
-Current focus: Integrating MAESTRO-based evaluation and implementing the multi-task optimization module.
